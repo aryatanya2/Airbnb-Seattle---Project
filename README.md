@@ -1,4 +1,4 @@
-# Airbnb-Seattle---Project
+# Airbnb-Seattle - Project
 
 This is Udacity's Data Science Blog Post Project
 
