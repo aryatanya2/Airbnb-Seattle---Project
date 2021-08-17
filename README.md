@@ -8,7 +8,8 @@ The aim of this project is to use CRISP-DM process to analyze data in order to c
 
 **Results**
 
-The result of the analysis are presented in the jupyter notebook as well as blog post that is linked here. 
+The result of the analysis are presented in the jupyter notebook as well as blog post that is linked [here.](https://medium.com/@tanyaarya/seattles-airbnb-dataset-f23fcf68c156)
+
 
 **Dependencies**
 
